@@ -46,12 +46,6 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
-excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
-header:
-  overlay_image: /assets/images/header.jpg
-  caption: "Proudly waving the flag of <Dollars>"
-  cta_label: "Join today!"
-  cta_url: "https://discord.gg/nGEU4mH"
   
 # SEO Related
 google_site_verification :
