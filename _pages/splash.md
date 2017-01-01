@@ -1,15 +1,9 @@
 ---
-permalink: /splash/
 layout: splash
-classes:
-  - landing
-  - dark-theme
-  
-excerpt: "This post should [...]"
+excerpt: "Active Discord. Active Community. Active Discussions"
 header:
   overlay_image: /assets/images/header.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  cta_label: "More Info"
-  cta_url: "https://unsplash.com"
-  ---
+  caption: "Ors, a regular of the guild."
+  cta_label: "Join Today!"
+  cta_url: "https://discord.gg/nGEU4mH"
+---
