@@ -1,8 +1,10 @@
 ---
+permalink: /splash/
 layout: splash
 classes:
   - landing
   - dark-theme
+  
 excerpt: "This post should [...]"
 header:
   overlay_image: /assets/images/header.jpg
