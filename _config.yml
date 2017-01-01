@@ -47,13 +47,6 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
-excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
-header:
-  overlay_image: /assets/images/header.jpg
-  caption: "Proudly waving the flag of <Dollars>"
-  cta_label: "Join today!"
-  cta_url: "https://discord.gg/nGEU4mH"
-
 # SEO Related
 google_site_verification :
 bing_site_verification   :
@@ -251,3 +244,12 @@ defaults:
       comments: # true
       share: true
       related: true
+
+# Edits
+layout: splash
+excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
+header:
+  overlay_image: /assets/images/header.jpg
+  caption: "Proudly waving the flag of <Dollars>"
+  cta_label: "Join today!"
+  cta_url: "https://discord.gg/nGEU4mH"
