@@ -12,6 +12,7 @@ All calculations are based on the cost of memory fragments, armor stones, and we
 > $$
 (Blackstone\, Cost)\times \frac{1}{P(success)}+(Memory\, Fragent\, Cost)\times P(failure)+(Failstacks\, Cost)
 $$
+
 ---
 
 #### Upgrading Liverto/Blue Awakening?
