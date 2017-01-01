@@ -7,17 +7,26 @@ Failstacking Guide
 - Reach any additional failstacks with beneficial failstacking items
   - Horse armor, wagon equipments, muskets, etc.
 
-All calculations are based on the cost of memory fragments, armor stones, and weapon stones. The following amounts were determined by the following equation and selecting the lowest average cost over average tries.
+All calculations are based on the cost of memory fragments, armor stones, and weapon stones. The optimal failstacks were determined by the following equation and selecting the lowest average cost over average tries.
 
 > $$
 (Blackstone\, Cost)\times \frac{1}{P(success)}+(Memory\, Fragent\, Cost)\times P(failure)+(Failstacks\, Cost)
 $$
 
+Failstacks Cost
+:   Total cost of the selected failstacks based on the accumulative amount of failstacks.
+
+Upgrade Items Cost
+:   Total cost of the memory fragments, armor stones, weapons stones, and downgrades. 
+
+Upgrade Cost
+:   The average total cost to enhance the weapon at the optimal amount of failstacks to the specific enhancement level.
+
 ---
 
 #### Upgrading Liverto/Blue Awakening?[^liverto]
 
-| Goal | Failstacks | Chance  | Average Tries | Failstacks Cost   | Upgrade Item Cost     | Upgrade Cost    |
+| Goal | Failstacks | Chance  | Average Tries | Failstacks Cost   | Upgrade Items Cost     | Upgrade Cost    |
 |------|------------|---------|---------------|-------------------|---------------|---------------|
 | 8    | FORCE      | 100.00% | 0.00          | 0                 | 4,150,000     | 4,150,000     |
 | 9    | 7          | 31.50%  | 1.87          | 1,469,042         | 4,090,143     | 5,559,185     |
