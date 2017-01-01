@@ -42,7 +42,7 @@ Upgrade Cost
 | TET  | 46         | 13.50%  | 4.60          | 107,742,645       | 807,356,386   | 915,099,031   |
 | PEN  | 72         | 12.30%  | 5.33          | 713,699,139       | 4,924,453,877 | 5,638,153,016 |
 
-#### Upgrading Kzarka/Dandelion/Khutum/Nouver?
+#### Upgrading Kzarka/Dandelion/Khutum/Nouver?[^kzarka]
 
 | Goal | Failstacks | Chance   | Average Tries | Failstacks Cost   | Upgrade Items Cost   | Upgrade Cost   |
 |------|------------|----------|---------------|-------------------|----------------------|----------------|
@@ -60,7 +60,7 @@ Upgrade Cost
 | TET  | 50         | 14.50%   | 4.37          | 152,081,426       | 976,089,044          | 1,128,170,470  |
 | PEN  | 74         | 12.60%   | 5.24          | 798,125,150       | 5,980,467,296        | 6,778,592,446  |
 
-#### Upgrading Bheg/Giath/Hebe/Muskan?
+#### Upgrading Bheg/Giath/Hebe/Muskan?[^bossarmor]
 
 | Goal | Failstacks | Chance  | Average Tries | Failstacks Cost   | Upgrade Items Cost     | Upgrade Cost    |
 |------|------------|---------|---------------|-------------------|---------------|---------------|
@@ -81,8 +81,8 @@ Upgrade Cost
 | PEN  | 74         | 12.60%  | 5.24          | 798,125,150       | 5,183,465,004 | 5,981,590,154 |
 
 [^liverto]: The costs here are the same for Liverto weapons and Blue awakening weapons because all of their characteristics are about the same. They have the same repair cost of 2 memory fragments, their chances of success are the same, etc. The only difference being their initial purchasing price which is not included in the upgrading calculations.
-
-
+[^kzarka]: Same above mentioned footnote except with even more expensive weapons.
+[^bossarmor]: Same dealio except now with boss armor.
 
 
 
