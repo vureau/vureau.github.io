@@ -12,8 +12,8 @@ title                    : "Dollars"
 title_separator          : "-"
 name                     : "Vureau the Best"
 description              : "PvX Black Desert Guild."
-url                      : "https://dollarsBDO.github.io"
-baseurl                  : "/splash"
+url                      : 
+baseurl                  : 
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
