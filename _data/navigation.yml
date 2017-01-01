@@ -1,7 +1,9 @@
 # main links
 main:
-  - title: "Failstacks Guide"
-    url: https://dollarsbdo.github.io/failstacks/
+  - title: "Failstacking Guide"
+    url: /Failstacking/
+  - title: "World Map"
+    url: http://www.somethinglovely.net/bdo/#!/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
