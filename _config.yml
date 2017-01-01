@@ -5,6 +5,17 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+# Edits
+---
+layout: splash
+excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
+header:
+  overlay_image: /assets/images/header.jpg
+  caption: "Proudly waving the flag of <Dollars>"
+  cta_label: "Join today!"
+  cta_url: "https://discord.gg/nGEU4mH"
+---
+
 # Site Settings
 locale                   : "en"
 title                    : "Test"
@@ -244,12 +255,3 @@ defaults:
       comments: # true
       share: true
       related: true
-
-# Edits
-layout: splash
-excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
-header:
-  overlay_image: /assets/images/header.jpg
-  caption: "Proudly waving the flag of <Dollars>"
-  cta_label: "Join today!"
-  cta_url: "https://discord.gg/nGEU4mH"
