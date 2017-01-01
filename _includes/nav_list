@@ -10,7 +10,7 @@
         {% if nav.url %}
           {% comment %} internal/external URL check {% endcomment %}
           {% if nav.url contains "://" %}
-            {% assign domain = "" target="_blank" %}
+            {% assign domain = "" %}
           {% else %}
             {% assign domain = site.url | append: site.baseurl %}
           {% endif %}
