@@ -1,5 +1,4 @@
-Failstacking Guide
-===================
+{% include toc %}
 
 - Use cheap accessories to get to **2** failstacks
 - Use PRI accessories acquired from before to get to **5** failstacks
