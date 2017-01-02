@@ -7,7 +7,7 @@ Failstacking Guide
 - Reach any additional failstacks with beneficial failstacking items
   - Horse armor, wagon equipments, muskets, etc.
 
-All calculations are based on the cost of memory fragments, armor stones, and weapon stones. The optimal failstacks were determined by the following equation and selecting the lowest average cost over average tries.
+All calculations are based on the cost of memory fragments, armor stones, and weapon stones. The optimal failstacks were determined by the following equation and selecting the lowest average cost over average tries.[^data]
 
 > $$
 (Blackstone\, Cost)\times \frac{1}{P(success)}+(Memory\, Fragent\, Cost)\times P(failure)+(Failstacks\, Cost)
@@ -80,6 +80,7 @@ Upgrade Cost
 | TET  | 49         | 14.25%  | 4.43          | 139,907,141       | 838,582,757   | 978,489,898   |
 | PEN  | 74         | 12.60%  | 5.24          | 798,125,150       | 5,183,465,004 | 5,981,590,154 |
 
+[^data]: The raw data can be found [here](https://docs.google.com/spreadsheets/d/11GJz8ZfT7818epf_s5kPpcGW0gw6kXsyTdxxhh60HU0/edit?usp=sharing)
 [^liverto]: The costs here are the same for Liverto weapons and Blue awakening weapons because all of their characteristics are about the same. They have the same repair cost of 2 memory fragments, their chances of success are the same, etc. The only difference being their initial purchasing price which is not included in the upgrading calculations.
 [^kzarka]: Same above mentioned footnote except with even more expensive weapons.
 [^bossarmor]: Same dealio except now with boss armor.
