@@ -1,9 +1,0 @@
----
-layout: splash
-excerpt: "Active Discord. Active Community. Active Discussions"
-header:
-  overlay_image: /assets/images/header.jpg
-  caption: "Ors, a regular of the guild."
-  cta_label: "Join Today!"
-  cta_url: "https://discord.gg/nGEU4mH"
----
