@@ -1,5 +1,9 @@
 {% include toc %}
 
+Wyne has decided to gather all the guides that he thought were most useful for each individual classes. As a disclosure, he has levelled all twelve classes past 50, but he feels most compatible with Ranger, Witch, and Warrior. Please look through all the available guides. However, please take all guides with a grain of salt. Some of the guides are outdated, but usable especially for pre-awakening. Think critically about gear choices and skill builds before you commit. For the latest information for your class though, please inquire your fellow guildies!
+
+Updated: 1/2/17
+
 #### Warrior
 - [Pre-Awakening Warrior Guide](https://www.youtube.com/watch?v=6OBDCOPPfOU)
 - [Pre-Awakening Warrior Guide](http://www.blackdesertfoundry.com/2015/10/25/warrior-class-guide/)
