@@ -16,6 +16,7 @@
 - [Pre-Awakening Sorceress Guide](http://forum.blackdesertonline.com/index.php?/topic/8778-extensive-sorc-build/)
 - [Pre-Awakening Sorceress Guide](http://forum.blackdesertonline.com/index.php?/topic/19327-sorceress-aoe-grindingleveling-guide/)
 - [Awakening Sorceress Guide](https://www.reddit.com/r/blackdesertonline/comments/52fz7c/kr_rowlan_awakening_combo_guide_sorceress/d7neuf2/)
+
 #### Berserker
 - [Pre-Awakening Berserker Guide](http://forum.blackdesertonline.com/index.php?/topic/28373-guide-berserker-road-to-50/)
 - [Awakening Berserker Guide](http://forum.blackdesertonline.com/index.php?/topic/35771-guide-berserker-road-to-60-update-29-july-including-google-doc/)

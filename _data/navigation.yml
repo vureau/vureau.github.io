@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Class Guides"
+    url: /Class-Guides/
   - title: "Failstacking Guide"
     url: /Failstacking/
   - title: "World Map"
