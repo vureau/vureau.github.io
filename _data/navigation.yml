@@ -1,11 +1,13 @@
 # main links
 main:
   - title: "Class Guides"
-    url: /Class-Guides/
+    url: /class-guides/
+  - title: "Newbie Guide"
+    url: /newbie-guide/
   - title: "Failstacking Guide"
-    url: /Failstacking/
-  - title: "World Map"
-    url: http://www.somethinglovely.net/bdo/#!/
+    url: /failstacking/
+  - <a href="http://www.somethinglovely.net/bdo/#!/" target="_blank">World Map</a>
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
